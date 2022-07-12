@@ -1,0 +1,13 @@
+{
+    "mykey1": 123,
+    "mykey2": "dsfdg",
+    "mykey3": true,
+    "mykey4": false,
+    "mykey22": {
+        "pooya": "Alavian",
+        "family": [
+            "Jimmy",
+            "Mary"
+        ]
+    }
+}
